@@ -1,7 +1,7 @@
 ### Date created
 July.26 2020
 
-# Post your Work on GitHub
+# Github Project 
 
 ### Description
 In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
